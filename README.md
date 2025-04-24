@@ -29,7 +29,7 @@ To help people build better habits, learn smarter, and master everyday data — 
 
 - 📷 [Instagram](https://instagram.com/mdatacraft)
 - 🧵 [Threads](https://www.threads.net/@mdatacraft)
-- 🐙 [GitHub]((https://m-data-craft.github.io/))
+- 🐙 [GitHub](https://m-data-craft.github.io/)
 
 ---
 
